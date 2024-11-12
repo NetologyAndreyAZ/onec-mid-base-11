@@ -175,7 +175,7 @@
     <mdObject>Catalog.КлючевыеОперации</mdObject>
   </content>
   <content>
-    <mdObject>Catalog.ДЗ_Должность</mdObject>
+    <mdObject>Catalog.ДЗ_Должности</mdObject>
     <autoRecord>Allow</autoRecord>
   </content>
   <content>
