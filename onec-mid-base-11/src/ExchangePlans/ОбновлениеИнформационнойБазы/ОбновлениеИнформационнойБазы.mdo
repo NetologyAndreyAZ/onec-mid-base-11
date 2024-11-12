@@ -175,6 +175,10 @@
     <mdObject>Catalog.КлючевыеОперации</mdObject>
   </content>
   <content>
+    <mdObject>Catalog.ДЗ_Должность</mdObject>
+    <autoRecord>Allow</autoRecord>
+  </content>
+  <content>
     <mdObject>InformationRegister.ДополнительныеСведения</mdObject>
   </content>
   <content>
